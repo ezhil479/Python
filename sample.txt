@@ -1,7 +1,15 @@
 This is my test code....
 
 
+<<<<<<< HEAD
 => Today learn git
        -> git init
        -> git add
        -> git commit
+=======
+
+x=10
+y=9
+c=x+y
+print(c)
+>>>>>>> c86744b7bdd73aa3d1ddd83759acff607cb4f1fe
